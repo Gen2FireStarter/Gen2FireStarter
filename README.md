@@ -3,7 +3,7 @@
 
 Hello! I am Dylan McDonough, a Computer Science major here at Montana Technological University. I am a motivated, accomplished college student seeking to not only pursue a higher level of education in Computer Science, but also obtain an internship/job to further my knowledge and skill sets.
 
-# EDUCATION
+# Education
 ### Montana Technological University, Butte, MT (Anticipated graduation - Dec 2025)
 **GPA:** 3.54\
 **Majoring in Computer Science with a minor in Mathematics**\
